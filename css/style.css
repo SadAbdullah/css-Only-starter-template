@@ -2,7 +2,8 @@
 Template Name: CSS only starter
 Template URL: https://darkcorner.inc
 Description: Starter template - A ready made CSS only starter template
-    Author: Sad Abdullah
+    Author Name: Sad Abdullah
+    Author Website: 
     Version: 1.0
 
 ------------ table of contents ---------- ///
@@ -23,11 +24,15 @@ Description: Starter template - A ready made CSS only starter template
 8. Footer
 9. Responsive
 
+    9.1 Large devices (desktops)
+    9.2 Medium devices (tablets)
+    9.3 Small devices (landscape phones)
+    9.4 Extra small devices (portrait phones)
+
 
 -----------------------
             1. Reset CSS style
 ------------------------------------------------ */
-
 /* -------- 1.1 General --------- */
 
 * {
